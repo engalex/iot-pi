@@ -24,4 +24,4 @@ As I release the respective experiments' code, I'll create a proper `/release` o
 
 #### Credits
 
-This micro-blog makes use of a lightly modified version of [the Pixyll Jekyll theme](https://github.com/johnotander/pixyll). It's a pretty slick, minimal theme that's freely available under the MIT license, courtesy of [@johnotander](http://johnotander.com/).
+This micro-blog makes use of a lightly modified version of [the Pixyll Jekyll theme](https://github.com/johnotander/pixyll). It's a pretty slick, minimal theme that's freely available under the MIT license, courtesy of @johnotander.

@@ -106,5 +106,6 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-mentions
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
