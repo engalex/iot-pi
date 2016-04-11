@@ -1,4 +1,4 @@
-# IoT, Watson, and Raspberry Pi (3) Experiments
+# Raspberry Pi, IBM IoT Watson, and Node.js Experiments
 
 This repository is where I will keep and progress through a few iterations of "experiments" relating to my new Raspberry Pi 3, and IoT and IBM Watson and its related services.
 
