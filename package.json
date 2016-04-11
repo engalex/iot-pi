@@ -1,0 +1,26 @@
+{
+  "name": "iot-pi",
+  "version": "1.0.0",
+  "description": "the Raspberry Pi 3, IBM Watson IoT Platform, and Node micro-blog of edm00se",
+  "main": "gulp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edm00se/iot-pi.git"
+  },
+  "author": "Eric McCormick",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/edm00se/iot-pi/issues"
+  },
+  "homepage": "https://github.com/edm00se/iot-pi#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "compression": "^1.6.0",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7",
+    "run-sequence": "^1.1.5"
+  }
+}

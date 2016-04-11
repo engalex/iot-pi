@@ -1,0 +1,110 @@
+# Site settings
+title:       IoT Pi Experiments
+email:       
+author:      Eric McCormick
+description: "A series of experiments with the Raspberry Pi 3, IBM Watson IoT Platform, and Node."
+baseurl:     "https://edm00se.github.io/iot-pi"
+url:         "https://edm00se.github.io/iot-pi"
+date_format: "%b %-d, %Y"
+
+# Google services
+google_verification:
+# Use either direct GA implementation or set up GTM account
+# - using both will skew your data (leave blank to not use at all)
+google_analytics: UA-53507706-2
+google_tag_manager:
+# Bing services
+bing_verification: 98426725A1ECABB0ECC93D5FB5CEBEB0
+
+# Optional features
+animated:             true
+show_related_posts:   false
+show_post_footers:    true
+show_social_icons:    true
+ajaxify_contact_form: false
+enable_mathjax: false
+extended_fonts: false
+enable_anchorjs: true
+timezone:    America/Chicago
+future:      true
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: iot-pi
+
+# Facebook Comments plugin
+# (leave blank to disable Facebook Comments, otherwise set it to true)
+facebook_comments:
+facebook_appid:
+facebook_comments_number: 10
+
+# Owner description
+owner:
+  name:           Eric McCormick
+  gravatar:       https://www.gravatar.com/avatar/397da8c5ae99b2f89a207d9beda6984d
+  description:    Eric is a full-stack web developer who works on IBM Domino/XPages, Node.js, with a front-end preference of Angular or vue.js.
+
+# Social icons
+github_username: edm00se
+#bitbucket_username: edm00se
+stackoverflow_id: 1720082
+twitter_username: edm00se
+#skype_username: edm00se
+steam_nickname:
+#google_plus_id: EricMcCormickThereCanBeOnlyOne
+linkedin_username: emccormick
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Post sharing icons
+show_sharing_icons: false
+# Change to 'true' to enable individual icons
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+  share_buttons:
+    text:         'Share this post!'
+    facebook:     'Share on Facebook'
+    twitter:      'Share on Twitter'
+    googleplus:   'Share on Google+'
+    linkedin:     'Share on LinkedIn'
+    digg:         'Share on Digg'
+    tumblr:       'Share on Tumblr'
+    reddit:       'Share on Reddit'
+    stumbleupon:  'Share on StumbleUpon'
+    hackernews:   'Share on Hacker News'
+  post:
+    updated:        'Updated'
+    minute_read:    'minute read'
+    related_posts:  'Related Posts'
+  index:
+    coming_soon: 'Coming soon...'
+  og_locale: 'en_US'
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    /:year/:month/:title/
+paginate:     4
+sass:
+  compressed: true
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+# https://github.com/jekyll/jekyll/issues/2938
+exclude: [vendor]
