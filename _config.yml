@@ -1,10 +1,10 @@
 # Site settings
-title:       IoT Pi Experiments
+title:       "Bifröst: IoT Pi Experiments"
 email:       
 author:      Eric McCormick
 description: "A series of experiments with the Raspberry Pi 3, IBM Watson IoT Platform, and Node."
-baseurl:     "https://edm00se.github.io/iot-pi"
-url:         "https://edm00se.github.io/iot-pi"
+baseurl:     "https://bifröst.com"
+url:         "https://bifröst.com"
 date_format: "%b %-d, %Y"
 
 # Google services
