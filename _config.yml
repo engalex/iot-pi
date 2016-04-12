@@ -1,5 +1,5 @@
 # Site settings
-title:       "Bifröst: IoT Pi Experiments"
+title:       "IoT Pi Experiments"
 email:       
 author:      Eric McCormick
 description: "A series of experiments with the Raspberry Pi 3, IBM Watson IoT Platform, and Node."

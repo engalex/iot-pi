@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-#### Bifröst: A Rainbow Bridge to IoT Pi Experiments
+#### IoT Pi Experiments
 
 A series of "experiments" undertaken by [@edm00se](https://edm00se.github.io/) in regards to:
 
@@ -13,12 +13,6 @@ A series of "experiments" undertaken by [@edm00se](https://edm00se.github.io/) i
 * the [IBM Watson IoT Platform on IBM Bluemix](http://www.ibm.com/internet-of-things/)
 * [Node.js](https://nodejs.org/en/)
 * and more
-
-#### Why Bifröst?
-
-1. heightening the interconnection of devices in the age of "smart things"/IoT should be [_that awesome_](https://en.wikipedia.org/wiki/Bifr%C3%B6st)
-2. we shouldn't be afraid of utf-8 encoded addresses anymore
-3. I already had the domain name
 
 ##### Micro-Blog
 
