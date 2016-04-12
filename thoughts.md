@@ -1,5 +1,6 @@
 ### Possible Builds for the Project
 
+- [ ] node-red _something_, show of IoT Watson flow and ease of service
 - [ ] dog monitoring, uses camera to detect movement, outputs estimated caloric energy burned
 - [ ] weather aware garden watering system, connects to weather API (whether to water), output used quantity (saved water on rainy days)
 - [ ] smart interface (a la smart mirror), custom notifications and actions, APIs, outputs usage and interests (Watson personality)
