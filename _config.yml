@@ -42,7 +42,7 @@ facebook_comments_number: 10
 owner:
   name:           Eric McCormick
   gravatar:       https://www.gravatar.com/avatar/397da8c5ae99b2f89a207d9beda6984d
-  description:    Eric is a full-stack web developer who works on IBM Domino/XPages, Node.js, with a front-end preference of Angular or vue.js.
+  description:    Eric is a full-stack web developer who works on IBM Domino/XPages and Node.js, with a front-end preference of Angular or vue.js.
 
 # Social icons
 github_username: edm00se
