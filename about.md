@@ -7,7 +7,7 @@ tags: about
 
 #### IoT Pi Experiments
 
-A series of "experiments" conduced by [@edm00se](https://edm00se.github.io/) in regards to:
+A series of "experiments" undertaken by [@edm00se](https://edm00se.github.io/) in regards to:
 
 * the [Raspberry Pi](https://www.raspberrypi.org/) 3
 * the [IBM Watson IoT Platform on IBM Bluemix](http://www.ibm.com/internet-of-things/)
