@@ -20,8 +20,7 @@ The result of all of this is to make "smart things". Things, especially ones tha
 
 * what **can** be an IoT device
 * what **should** be an IoT device (and what **shouldn't**)
-* what **can** be accomplished as an IoT device
-* what **should** be an IoT device (and what **shouldn't**)
+* what **can** be accomplished as/by an IoT device
 * what is **most advantageous** to people / a person as an IoT device
 
 I believe that last bullet to be the biggest area of exploration, at the moment. On the whole, we're still coming into focus with the realizations of what can/can't be and what is/isn't a good idea. So the advent of the advantage, fitting with the "see a need, fill a need" adage, is what I believe will yield the most traction and be the most enlightening.
