@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Thinking About the Future
-date:       2016-05-18 08:07:07
+date:       2016-05-20 08:07:07
 summary:    Thoughts on what to build, why it can be awesome, and where to go with this series.
 categories: admin
 ---

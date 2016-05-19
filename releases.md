@@ -12,5 +12,5 @@ tags: releases
     - [{{ exp.title }}]({{ exp.link }})
     {% endfor %}
 {% else %}
-   Nothing posted yet. Perhaps you should check back in a week or so?
+   Nothing posted yet. Perhaps you should check back in a couple of weeks or so?
 {% endif %}
