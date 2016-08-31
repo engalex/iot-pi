@@ -41,6 +41,7 @@ gulp.task('browser-sync-reload', function(){
 
 gulp.task('jekyll-dev', function(){
   runSequence(
+      'jekyll-alert-bs',
       'jekyll-build-dev',
       'watch',
       'browser-sync');
@@ -70,8 +71,12 @@ gulp.task('jekyll-build-from-scratch', function(done){
     .on('close', done);
 });
 
+gulp.task('jekyll-alert-bs', function(done){
+  return browserSync.notify('Building Jekyll')
+    .on('close', done);
+});
+
 gulp.task('jekyll-build', function(done){
-  browserSync.notify('Building Jekyll');
   return spawn('bundle', ['exec', 'jekyll', 'build'], {stdio: 'inherit'})
     .on('close', done);
 });
