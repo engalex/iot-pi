@@ -112,4 +112,4 @@ gems:
   - jekyll-sitemap
   - jemoji
 # https://github.com/jekyll/jekyll/issues/2938
-exclude: [node_modules, package.json, npm-debug.log, Gruntfile.js, scss, vendor]
+exclude: [node_modules, package.json, npm-debug.log, Gruntfile.js, scss, scripts, vendor]
