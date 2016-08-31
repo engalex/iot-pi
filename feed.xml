@@ -1,21 +1,21 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    <title>IoT Pi Experiments</title>
+    <description>A series of experiments with the Raspberry Pi 3, IBM Watson IoT Platform, and Node.</description>
+    <link>https://edm00se.github.io/iot-pihttps://edm00se.github.io/iot-pi/</link>
+    <atom:link href="https://edm00se.github.io/iot-pihttps://edm00se.github.io/iot-pi/feed.xml" rel="self" type="application/rss+xml" />
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        <title>Postponing Launch the Pi IoT Micro-Blog</title>
+        <description>&lt;h3 id=&quot;launching-delayed-due-to-stormy-conditions&quot;&gt;Launching Delayed Due to Stormy Conditions&lt;/h3&gt;
+
+&lt;p&gt;Contrary to my previous “soft launch” of this site, I’m going to be delaying this project and its affiliated series of content. This summer has gotten all sorts of crazy, so it’ll likely be something I pick back up in winter. Thanks for checking in, I’ll hope to have more for “show and tell” sometime around November or December. Thanks!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Aug 2016 05:35:07 -0500</pubDate>
+        <link>https://edm00se.github.io/iot-pihttps://edm00se.github.io/iot-pi/2016/08/launch-postponed/</link>
+        <guid isPermaLink="true">https://edm00se.github.io/iot-pihttps://edm00se.github.io/iot-pi/2016/08/launch-postponed/</guid>
       </item>
-    {% endfor %}
+    
   </channel>
 </rss>
